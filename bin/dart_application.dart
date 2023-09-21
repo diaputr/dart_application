@@ -54,7 +54,7 @@ void main() {
   }
   print(smile);
 
-// Perulangan lain
+// coba lain
 
   var senyum = '😊';
   for (var i = 0; i <= 5; i++) {
@@ -64,6 +64,24 @@ void main() {
   for (var j = 4; j >= 0; j--) {
     print(senyum * j);
   }
+
+/*
+  // Perulangan While
+  var i = 1;
+  while (i < 10) {
+    print(i);
+    i++;
+  }
+
+  print('\n');
+
+  // Perulangan Do While
+  var j = 1;
+  do {
+    print(j);
+    j++;
+  } while (j < 10);
+  */
 }
 
 /// https://www.anbidev.com/dart-pengenalan
