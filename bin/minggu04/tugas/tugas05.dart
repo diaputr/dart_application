@@ -8,6 +8,6 @@ void main() {
   }
 
   innerFunction(); // Memanggil fungsi innerFunction
-  print("innerVar: $innerVar"); // Ini akan menghasilkan error
+  // print("innerVar: $innerVar"); // Ini akan menghasilkan error
   // karena innerVar ada didalam fungsi innerFunction
 }
